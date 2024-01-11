@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+* 🧑‍💼 I'm a Full Stack developer at Airbnb.
+* 🔭 My experience focuses on developing and managing distributed web and data applications. Leading teams of developers and project management are other areas that I enjoy working on.
+* 🏠 In my free time, you can find me playing video games, running or climbing.
+* 📨 You can reach out to me on [Linkedin](https://www.linkedin.com/in/alexeyeryshev/).
+
+
 <!--
 **alexeyeryshev/alexeyeryshev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
