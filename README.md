@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-* 🧑‍💼 I'm a Full Stack developer at Meta. Previously at Airbnb.
+* 🧑‍💼 I'm a Full Stack developer at Mistral AI. Previously at Airbnb and Meta.
 * 🔭 My experience focuses on developing and managing distributed web and data applications. Leading teams of developers and project management are other areas that I enjoy working on.
 * 🏠 In my free time, you can find me playing video games, running or climbing.
 * 📨 You can reach out to me on [Linkedin](https://www.linkedin.com/in/alexeyeryshev/).
